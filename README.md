@@ -14,11 +14,10 @@ Software Engineer 💻
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-yuriscosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardorgaya)](https://www.linkedin.com/in/ricardorgaya) -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Golang
+<!-- - 🌱 I’m currently learning Golang -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
--->
